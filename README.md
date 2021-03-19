@@ -7,3 +7,5 @@ First change
 Second change
 
 MyChange is here!
+
+Direct change from my side!
