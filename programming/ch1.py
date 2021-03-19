@@ -48,16 +48,6 @@ def ep1_solve():
                 break
             except:
                 print("[!] Waiting for challenge...")
-        # elif smsg.find("PING")>-1:    # If PING is captured
-        #     try:
-        #         smsg=smsg.replace("PING","PONG") # raplace "PING" with "PONG"
-        #         bot.send(smsg) # send back the "PONG" message
-        #         bot.send(smsg) # do it more than once to make sure it's received
-        #         bot.send(smsg)
-        #         print("PONG sent")
-        #         break
-        #     except:
-        #         print("[!] Waiting for ping...")
 
 #Setup a connection with the IRC Server
 
