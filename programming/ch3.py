@@ -61,9 +61,3 @@ else:
     ep3_solve()
 print("[+] Go To Sleep")
 bot.close()
-
-
-
-
-
-
